@@ -3,12 +3,15 @@ bbbbbbb
 dfsfs
 
 dfdsf
-ddddd
+dddddddddddd
 ddd
 ddd
 ㅇㅇㅇㅇㅇㅇ
 
 ㅇㅇㅇㅇㅇㅇ
 dddddddd
+<<<<<<< HEAD
 ddddd
+=======
+>>>>>>> main
 ddddd
